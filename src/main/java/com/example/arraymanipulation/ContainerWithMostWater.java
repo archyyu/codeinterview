@@ -1,4 +1,4 @@
-package com.example;
+package com.example.arraymanipulation;
 
 /**
  * Container With Most Water Problem

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.arraymanipulation;
 
 /**
  * Remove Duplicates from Sorted Array Problem

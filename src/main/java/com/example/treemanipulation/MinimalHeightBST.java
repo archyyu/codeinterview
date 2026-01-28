@@ -1,4 +1,4 @@
-package com.example;
+package com.example.treemanipulation;
 
 /**
  * Minimal Height Binary Search Tree Problem

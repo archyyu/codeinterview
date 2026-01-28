@@ -1,4 +1,4 @@
-package com.example;
+package com.example.graphtraversal;
 
 import java.util.*;
 

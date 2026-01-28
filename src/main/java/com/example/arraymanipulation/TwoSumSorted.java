@@ -1,4 +1,4 @@
-package com.example;
+package com.example.arraymanipulation;
 
 /**
  * Two Sum (Sorted) Problem

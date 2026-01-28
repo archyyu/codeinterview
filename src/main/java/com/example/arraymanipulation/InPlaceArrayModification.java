@@ -1,4 +1,4 @@
-package com.example;
+package com.example.arraymanipulation;
 
 /**
  * In-Place Array Modification Problem

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.backtracking;
 
 import java.util.List;
 import java.util.ArrayList;
