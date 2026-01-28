@@ -52,9 +52,25 @@ public class ContainerWithMostWater {
         int start = 0;
         int end = height.length - 1;
 
-        
+        int max = 0;
 
-        return 0;
+        while(start < end) {
+
+            int currentHeight = (end - start) * Math.min(height[start], height[end]);
+            if (currentHeight > max) {
+                max = currentHeight;
+            }
+
+            if (height[start] > height[end]) {
+                end --;
+            } else {
+                start ++;
+            }
+
+        }
+
+
+        return max;
     }
     
     public static void main(String[] args) {

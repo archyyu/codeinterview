@@ -54,12 +54,12 @@ import java.util.*;
  * - For each level, create a linked list of nodes and add it to the result list.
  */
 
-class TreeNode {
+class TreeNode1 {
     int val;
-    TreeNode left;
-    TreeNode right;
+    TreeNode1 left;
+    TreeNode1 right;
     
-    TreeNode(int val) {
+    TreeNode1(int val) {
         this.val = val;
     }
 }
